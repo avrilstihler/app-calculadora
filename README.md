@@ -1,16 +1,26 @@
-# myapp
+# 🧮 App Calculadora
 
-A new Flutter project.
+Projeto do Talento Tech: uma calculadora simples e prática desenvolvida com **Flutter**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Como funciona?  
 
-A few resources to get you started if this is your first Flutter project:
+Este app oferece uma interface de calculadora com operações básicas, como adição, subtração, multiplicação e divisão. Basta digitar os números e operações para realizar os cálculos.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌐 Como acessar?  
+
+Acesse pelo link:  
+👉 [`https://avristihler.github.io/app-calculadora/`](https://avristihler.github.io/app-calculadora/)  
+
+---
+
+## 💻 Detalhes técnicos  
+
+- **Desenvolvido com**: Flutter.  
+- **Hospedado em**: GitHub Pages para acesso direto pelo navegador.  
+- **Nota**: A experiência é otimizada para dispositivos móveis.  
+
+Faça seus cálculos de forma simples e rápida!  
