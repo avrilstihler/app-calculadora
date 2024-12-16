@@ -1,26 +1,19 @@
 # 🧮 App Calculadora
 
-Projeto do Talento Tech: uma calculadora simples e prática desenvolvida com **Flutter**.  
+Projeto do Talento Tech: uma calculadora simples e prática desenvolvida com **Flutter**, que também conta com um mini contador de cliques.  
 
 ---
 
-## 🎯 Como funciona?  
-
-Este app oferece uma interface de calculadora com operações básicas, como adição, subtração, multiplicação e divisão. Basta digitar os números e operações para realizar os cálculos.  
+Este app oferece uma interface de calculadora com operações básicas, como adição, subtração, multiplicação e divisão. Além disso, você pode clicar no ícone de coração para incrementar um contador e acompanhar o número de vezes que você clicou.  
 
 ---
-
-## 🌐 Como acessar?  
 
 Acesse pelo link:  
-👉 [`https://avristihler.github.io/app-calculadora/`](https://avristihler.github.io/app-calculadora/)  
+[`https://avrilstihler.github.io/app-calculadora/`](https://avrilstihler.github.io/app-calculadora/)  
 
 ---
-
-## 💻 Detalhes técnicos  
 
 - **Desenvolvido com**: Flutter.  
 - **Hospedado em**: GitHub Pages para acesso direto pelo navegador.  
 - **Nota**: A experiência é otimizada para dispositivos móveis.  
 
-Faça seus cálculos de forma simples e rápida!  
