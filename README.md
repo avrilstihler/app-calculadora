@@ -1,4 +1,4 @@
-# 🧮 App Calculadora
+# App Calculadora
 
 Projeto do Talento Tech: uma calculadora simples e prática desenvolvida com **Flutter**, que também conta com um mini contador de cliques.  
 
